@@ -1,5 +1,9 @@
 # CelestAI
 
+## CelestAI Poster: 
+![image](https://github.com/user-attachments/assets/f41138e3-654d-4f68-96f0-0055ff84319a)
+
+
 **CelestAI: Improving Astronomical Phenomena Detection with Generative AI**
 
 **Authors:** Hrishikesh Naveenam, Shaheem Jaleel, Karthik Yammanur, Samarth Bikki, Lindsay King, Jagadeep Kalluri
